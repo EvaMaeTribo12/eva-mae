@@ -7,16 +7,16 @@
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">Last name</label>
-    <input type="password" class="form-control" id="exampleInputPassword1">
+    <label for="exampleInputEmail1" class="form-label">Last name</label>
+    <input type="email" class="form-control" id="exampleInputEmail1">
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">Date of birth</label>
-    <input type="password" class="form-control" id="exampleInputPassword1">
+    <label for="exampleInputEmail1" class="form-label">Date of birth</label>
+    <input type="email" class="form-control" id="exampleInputEmail1">
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">specialty</label>
-    <input type="password" class="form-control" id="exampleInputPassword1">
+    <label for="exampleInputEmail1" class="form-label">specialty</label>
+    <input type="email" class="form-control" id="exampleInputEmail1">
   </div>
   <label for="date">Select a date:</label>
 		<input type="date" id="date" name="date">
